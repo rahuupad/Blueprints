@@ -2,9 +2,14 @@
 
 ## Implementation Details.
 
+<<<<<<< HEAD
 **Blueprint URL :** [ https://blueprints.launchpad.net/openstack-cisco/+spec/nagios-check-for-ceph ] ( https://blueprints.launchpad.net/openstack-cisco/+spec/nagios-check-for-ceph )
 
 **People working : **
+=======
+Blueprint URL :[ https://blueprints.launchpad.net/openstack-cisco/+spec/nagios-check-for-ceph ] ( https://blueprints.launchpad.net/openstack-cisco/+spec/nagios-check-for-ceph )
+People working :
+>>>>>>> 7e871680e7a35bca6901f09f035f910940fc2028
 * [Rahul Krishna Upadhyaya] (mailto:rahuupad@cisco.com) 
 * [Satya Sanjibani Routray] (mailto:satroutr@cisco.com)
 
