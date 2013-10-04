@@ -1,9 +1,10 @@
-# Nagios-monitoring and checks for ceph nodes for COI
+# Nagios-monitoring and checks for ceph nodes for COI (Cisco Openstack Installer)
 
 ## Implementation Details.
 
-Blueprint URL :[ https://blueprints.launchpad.net/openstack-cisco/+spec/nagios-check-for-ceph ] ( https://blueprints.launchpad.net/openstack-cisco/+spec/nagios-check-for-ceph )
-People working :
+**Blueprint URL** :[ https://blueprints.launchpad.net/openstack-cisco/+spec/nagios-check-for-ceph ] ( https://blueprints.launchpad.net/openstack-cisco/+spec/nagios-check-for-ceph )
+
+**People working** :
 * [Rahul Krishna Upadhyaya] (mailto:rahuupad@cisco.com) 
 * [Satya Sanjibani Routray] (mailto:satroutr@cisco.com)
 
