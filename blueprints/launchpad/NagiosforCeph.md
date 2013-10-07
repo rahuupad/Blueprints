@@ -36,7 +36,8 @@ Ceph is a free software storage platform designed to present object, block, and 
 
 Source of Script being Used : [Source] ( https://github.com/valerytschopp/ceph-nagios-plugins )
 
-## Interaction Diagram  
+## Interaction Diagram
+![Interaction between ceph and Nagios](https://github.com/rahuupad/Blueprints/tree/master/images/Ceph_nagios_diag.png)
 
 ## Monitoring Steps
 The Nagios scripts check the following things and report the health of ceph.
